@@ -1,14 +1,14 @@
 # E-Portfolo
 
-Bootstrap Dokumentation: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+[Bootstrap Dokumentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-## getting Started with bootstrap
+## Getting Started with bootstrap
 
 ### download the two following files:
 
-[js file](./bootstrap lösung/dist/bootstrap.bundle.min.js)
+[js file](./bootstrap%20lösung/dist/bootstrap.bundle.min.js)
 
-[css file](./bootstrap lösung/dist/bootstrap.min.css)
+[css file](./bootstrap%20lösung/dist/bootstrap.min.css)
 
 ### use the following structure for your html file (href and src might need to be changed according to your file structure)
 
@@ -25,4 +25,4 @@ Bootstrap Dokumentation: https://getbootstrap.com/docs/5.0/getting-started/intro
 </html>
 ```
 
-### now you can use the components from the example in the repo or from the doku site to design a webpage
+### now you can use the components from the example in the [repo](./bootstrap%20lösung) or from the [doku](https://getbootstrap.com/docs/5.0/getting-started/introduction/) site to design a webpage
