@@ -25,4 +25,4 @@
 </html>
 ```
 
-### now you can use the components from the example in the [repo](./bootstrap%20lösung) or from the [doku](https://getbootstrap.com/docs/5.0/getting-started/introduction/) site to design a webpage
+### now you can use the components from the [examples](./bootstrap%20lösung) in the repo or from the [doku](https://getbootstrap.com/docs/5.0/getting-started/introduction/) site to design a webpage
